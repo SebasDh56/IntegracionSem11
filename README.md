@@ -2,14 +2,6 @@
 
 ## Message Routing y Message Transformation con RabbitMQ y Apache Camel
 
-| Integrante | Rol |
-| ---------- | ------------------------- |
-| Nombre | Arquitecto de integración |
-| Nombre | Desarrollador Camel |
-| Nombre | Responsable RabbitMQ |
-| Nombre | Documentación |
-
----
 
 ## 1. Portada
 
